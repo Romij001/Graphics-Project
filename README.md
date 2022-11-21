@@ -1,2 +1,2 @@
-# Graphics-Project
-Computer Graphics Project
+# Computer Graphics Project
+Graphics-Project
